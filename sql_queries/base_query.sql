@@ -16,5 +16,6 @@ device.deviceCategory,
 geoNetwork.country,
 trafficSource.source,
 channelGrouping
-
-FROM `bigquery-public-data.google_analytics_sample.ga_sessions_20170801`
+FROM `bigquery-public-data.google_analytics_sample.ga_sessions_*`
+WHERE
+_TABLE_SUFFIX BETWEEN '20170101' AND '20170331'
