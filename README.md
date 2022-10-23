@@ -2,6 +2,8 @@
 
 In this project, an ecommerce analytics dashboard is created in Tableau. The data is from Google's own [Merchandise Store](https://shop.googlemerchandisestore.com/?utm_source=Partners&utm_medium=affiliate&utm_campaign=Data%20Share%20Promo), sourced from their BigQuery sample dataset located [here.](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?project=lexical-script-761)
 
+View the dashboard on [Tableau Public](https://public.tableau.com/app/profile/richard.k6822/viz/EcommercePerformanceDashboard_16665439868930/Dashboard1)
+
 ## Problem Definition
 
 Did you know that on average, only 5.2% [1] of ecommerce site customers make a purchase?
