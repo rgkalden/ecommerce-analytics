@@ -32,6 +32,17 @@ Based on analysis of the data, the metric values are as follows:
 
 A simple calculation based on the Sales Conversion Rate, Total Number of Visits, and Average Order Value can be performed to estimate the increase in quarterly revenue if strategies are used to increase the Sales Conversion rate to the benchmark value of 5.2%. In this case, the quarterly revenue can be increased by an estimated $1.3 million, or 347%.
 
+**Number of Purchases at Average Sales Conversion Rate:**
+
+$$Sales Conversion Rate = 0.052 = \dfrac{Num Purchases}{196817}$$
+$$Num Purchases = 10234$$
+
+$$ Current Number of Purchases = 0.01163 \times 196817 = 2289$$
+
+**Additional Revenue Per Quarter:**
+
+$$(10234 - 2289) purchases \times \dfrac{\$162.8}{purchase} = \$1 293525$$
+
 Strategies to increase the Sales Conversion Rate could take several forms: enhancing the website design, user experience improvements, or more targeted marketing.
 
 ## References
